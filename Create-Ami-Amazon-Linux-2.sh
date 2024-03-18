@@ -1,4 +1,4 @@
-#!/bin/baah
+#!/bin/bash
 
 ##############################
 ###### USE THIS FILE IF YOU LAUNCHED AMAZON LINUX 2 ########
